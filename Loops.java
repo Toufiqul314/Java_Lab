@@ -1,0 +1,11 @@
+package java_lab;
+
+public class Loops {
+
+    public static void main(String[] args) {
+        for (int i = 1; i <=5; i++) {
+            System.out.println(i+"."+"Welcome to Java");
+        }
+    }
+
+}
