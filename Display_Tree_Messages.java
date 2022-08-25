@@ -2,6 +2,7 @@ package java_lab;
 
 public class Display_Tree_Messages {
 
+    //(Display three messages) Write a program that displays Welcome to Java,Welcome to Computer Science, and Programming is fun.
     public static void main(String[] args) {
         System.out.println("Welcome to Java.");
         System.out.println("Welcome to Computer Science.");
